@@ -1,6 +1,6 @@
 # Linear_Algebra
 
-linear algebra concepts, visual explanations, and code examples.
+Linear algebra concepts, visual explanations, and code examples.
 
 Link for the workspace:
 
